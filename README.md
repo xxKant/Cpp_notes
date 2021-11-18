@@ -9,4 +9,4 @@ working as a professional software developer.
 
 ### Additional Material
 
-* [C++ Code Smells](#notes/code_smells.md)
+* [C++ Code Smells](notes/code_smells.md)
