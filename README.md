@@ -8,3 +8,5 @@ working as a professional software developer.
 ## Overview
 
 ### Additional Material
+
+* [C++ Code Smells](#notes/code_smells.md)
